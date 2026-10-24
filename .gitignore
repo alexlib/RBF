@@ -9,3 +9,4 @@ rbf/_version.py
 rbf/*.html
 rbf/pde/*.html
 rbf/misc/*.html
+uv.lock
